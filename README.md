@@ -15,7 +15,7 @@ This repo contains all the certificates I’ve earned from courses, workshops, a
 
 
 
-📌 About Me
+#📌 About Me
 Hi, I’m Mohammed Yaseen 👋  
 - 🎓 Passionate about learning and growing in tech  
 - 💻 Interested in software development & problem solving  
