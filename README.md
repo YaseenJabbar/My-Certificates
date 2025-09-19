@@ -23,5 +23,5 @@ Hi, I’m Mohammed Yaseen 👋
 
 
 ## 🔗 Connect With Me
-- GitHub: [Your GitHub Profile](https://github.com/YaseenJabbar)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/mohammedyaseen13)  
+- GitHub: [Yaseen Jabbar](https://github.com/YaseenJabbar)
+- LinkedIn: [Mohammed Yaseen](https://linkedin.com/in/mohammedyaseen13)  
